@@ -1,0 +1,15 @@
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\TodoAPI-demo.exe
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\TodoAPI-demo.dll
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\TodoAPI-demo.deps.json
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\TodoAPI-demo.runtimeconfig.json
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\TodoAPI-demo.pdb
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nick Carpenter\OneDrive - Quest\Desktop\The Codings\TodoAPI-demo\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
